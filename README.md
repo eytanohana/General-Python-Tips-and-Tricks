@@ -7,5 +7,9 @@ I recommend going through the notebooks in the order below as some do use concep
 ## Table of Contents
 1. [Generators](Generators.ipynb)
 1. [Decorators](Decorators.ipynb)
-1. [Context Managers](Context Managers.ipynb)
-1. 
+1. [Context Managers](Context_Managers.ipynb)
+1. [New Features in Python 3.8](Python_3.8_new_features.ipynb)
+1. [The functools module](Functools.ipynb)
+    
+***
+This is a work in progress. Please reach out if you have suggestions to improve this project or even to colab. Even if I'm unfamiliar, I'm always interested in learning new features/modules/tips that I can then teach to others. I hope you find this project helpful in learning the more niche topics of python as it has been for me! 😁
