@@ -2,15 +2,16 @@
 
 This is a project I've been working on in my spare time in order to help myself and others write more "pythonic" code. It does require at least a basic knowledge of python or at least programming concepts in general.
 
-I recommend going through the notebooks in the order below as some do use concepts explained in the other notebooks.
+I recommend going through the notebooks in the order below as some notebooks do use concepts explained in the other notebooks.
 
 ## Table of Contents
 1. [Generators](Generators.ipynb)
 1. [Decorators](Decorators.ipynb)
 1. [Context Managers](Context_Managers.ipynb)
-1. [New Features in Python 3.8](Python_3.8_new_features.ipynb)
+1. [Special / Dunder Methods](Special_methods.ipynb)
 1. [The functools module](Functools.ipynb)
-    
+1. [New Features in Python 3.8](Python_3.8_new_features.ipynb)
+   
 ***
     
 This is a work in progress. Please reach out if you have suggestions to improve this project or even to colab. Even if I'm unfamiliar, I'm always interested in learning new features/modules/tips that I can then teach to others. I hope you find this project helpful in learning the more niche topics of python as it has been for me! 😁
