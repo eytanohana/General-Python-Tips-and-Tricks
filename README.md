@@ -10,6 +10,7 @@ This is a project I've been working on in my spare time in order to help myself 
 1. [The itertools module](Itertools.ipynb)
 1. [The functools module](Functools.ipynb)
 1. [New Features in Python 3.8](Python_3.8_new_features.ipynb)
+1. [The collections module](Collections.ipynb)
    
 ***
     
