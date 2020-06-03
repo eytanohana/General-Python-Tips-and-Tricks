@@ -2,6 +2,10 @@
 
 This is a project I've been working on in my spare time in order to help myself and others write more "pythonic" code. It does require at least a basic knowledge of python or at least programming concepts in general.
 
+Open a fully interactive session in your browser with the binder link below.
+    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eytanohana/General-Python-Tips-and-Tricks/master)
+
 ## Table of Contents
 1. [Generators](Generators.ipynb)
 1. [Decorators](Decorators.ipynb)
