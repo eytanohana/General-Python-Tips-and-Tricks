@@ -15,6 +15,7 @@ Open a fully interactive session in your browser with the binder link below.
 1. [The functools module](Functools.ipynb)
 1. [New Features in Python 3.8](Python_3.8_new_features.ipynb)
 1. [The collections module](Collections.ipynb)
+1. [The operator module](Operator.ipynb)
    
 ***
     
